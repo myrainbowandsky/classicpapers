@@ -1,4 +1,5 @@
 # classic machine learning papers
+## survey: Efficient Transformers: A Survey, 2020: https://arxiv.org/abs/2009.06732
 ## evalucate self-attention: Long Range Arena: A Benchmark for Efficient Transformers,2020 : https://arxiv.org/abs/2011.04006
 ## convolution is a special form of Self-Attentio, On the Relationship between Self-Attention and Convolutional Layers, 2019: https://arxiv.org/abs/1911.03584
 ## RNN is  special Self-Attention, 2020: https://arxiv.org/abs/2006.16236
