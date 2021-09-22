@@ -4,4 +4,6 @@
 ## convolution is a special form of Self-Attentio, On the Relationship between Self-Attention and Convolutional Layers, 2019: https://arxiv.org/abs/1911.03584
 ## RNN is  special Self-Attention, 2020: https://arxiv.org/abs/2006.16236
 ## NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE, 2015 : https://arxiv.org/abs/1409.0473
-## Attention is all your need,2017: https://arxiv.org/abs/1706.03762 2
+## Attention is all your need,2017: https://arxiv.org/abs/1706.03762 
+## Translation using encoder-decoder architecture with attention mechanism, 2017: Massive Exploration of Neural Machine Translation Architectures, https://arxiv.org/pdf/1703.03906.pdf
+## Translation using seq2seq, Sequence to Sequence Learning with Neural Networks, 2014, https://arxiv.org/abs/1409.3215
