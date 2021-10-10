@@ -7,3 +7,4 @@
 ## Attention is all your need,2017: https://arxiv.org/abs/1706.03762 
 ## Translation using encoder-decoder architecture with attention mechanism, 2017: Massive Exploration of Neural Machine Translation Architectures, https://arxiv.org/pdf/1703.03906.pdf
 ## Translation using seq2seq, Sequence to Sequence Learning with Neural Networks, 2014, https://arxiv.org/abs/1409.3215
+## Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers,2021, https://arxiv.org/pdf/2103.15679.pdf
